@@ -12,4 +12,4 @@ func maxSubArray(_ nums: [Int]) -> Int {
         globalMax = max(currentMax,globalMax)
     }
     return globalMax
-}   
+}

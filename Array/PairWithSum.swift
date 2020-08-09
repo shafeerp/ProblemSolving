@@ -18,4 +18,3 @@ func findPair(arr: [Int],target: Int) {
         }
     }
 }
-

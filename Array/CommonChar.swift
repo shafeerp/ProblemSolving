@@ -25,3 +25,4 @@ func commonChars(_ A: [String]) -> [String] {
     }
     return commonChar
 }
+

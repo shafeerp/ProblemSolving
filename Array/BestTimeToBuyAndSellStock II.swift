@@ -10,3 +10,4 @@ func maxProfit(_ prices: [Int]) -> Int {
     }
     return totalProfit
 }
+

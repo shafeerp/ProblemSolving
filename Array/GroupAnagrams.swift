@@ -11,3 +11,4 @@ func groupAnagrams(_ strs: [String]) -> [[String]] {
     }
     return Array(anagramsDict.values)
 }
+

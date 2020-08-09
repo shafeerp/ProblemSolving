@@ -18,3 +18,4 @@ func largestAndSecondLargest(_ arr:[Int]) -> [Int] {
     return [largest,secondLargest]
 }
 
+
